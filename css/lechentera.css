@@ -1,0 +1,493 @@
+@charset "utf-8";
+#cabecera {
+    width: 1820px;
+    height: 55px;
+    padding-left: 30px;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    text-align: left;
+    font-size: x-large;
+    background-color: #006DBA;
+    color: #FFFFFF;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    padding-top: 2px;
+    padding-bottom: 60px;
+    float: left;
+}
+#contenedor #cabecera1 {
+    background-color: #006DBA;
+    padding-bottom: 0px;
+    height: 106px;
+    padding-right: 30px;
+    padding-top: 11px;
+}
+
+#cuerpo1 {
+    background-color: #DC2A2A;
+    width: 1980px;
+    height: 500px;
+    float: left;
+    margin-top: 20px;
+}
+#cuerpo2 {
+    background-color: #66CCFF;
+    width: 1980px;
+    height: 500px;
+    float: left;
+    margin-top: 20px;
+}
+#cuerpo3 {
+    background-color: #AC6899;
+    width: 1980px;
+    height: 500px;
+    float: left;
+    margin-top: 20px;
+}
+#cuerpo4 {
+    background-color: #9BB74B;
+    width: 1980px;
+    height: 500px;
+    float: left;
+    margin-top: 20px;
+}
+#cuerpo5 {
+    background-color: #DDA5CB;
+    width: 1980px;
+    height: 500px;
+    float: left;
+    margin-top: 20px;
+}
+#cuerpo6 {
+    background-color: #5B3321;
+    width: 1980px;
+    height: 500px;
+    float: left;
+    margin-top: 20px;
+}
+#cuerpo7 {
+    background-color: #F05E9C;
+    width: 1980px;
+    height: 500px;
+    float: left;
+    margin-top: 20px;
+}
+#cuerpo8 {
+    background-color: #FAA926;
+    width: 1980px;
+    height: 500px;
+    float: left;
+    margin-top: 20px;
+}
+#cuerpo9 {
+    background-color: #D60D10;
+    width: 1980px;
+    height: 500px;
+    float: left;
+    margin-top: 20px;
+}
+#cuerpo10 {
+    background-color: #3E6D8E;
+    width: 1980px;
+    height: 500px;
+    float: left;
+    margin-top: 20px;
+}
+
+
+
+#cuerpo1 #caja00 {
+    width: 1005px;
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 450%;
+    text-align: left;
+    padding-left: 680px;
+    height: 55px;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+#cuerpo2 #caja00 {
+    width: 1005px;
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 450%;
+    text-align: left;
+    padding-left: 680px;
+    height: 55px;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+#cuerpo3 #caja00 {
+    width: 1005px;
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 450%;
+    text-align: left;
+    padding-left: 511px;
+    height: 55px;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+#cuerpo4 #caja00 {
+    width: 1005px;
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 450%;
+    text-align: left;
+    padding-left: 340px;
+    height: 55px;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+#cuerpo5 #caja00 {
+    width: 1005px;
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 450%;
+    text-align: left;
+    padding-left: 410px;
+    height: 55px;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+#cuerpo6 #caja00 {
+    width: 1005px;
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 450%;
+    text-align: left;
+    padding-left: 511px;
+    height: 55px;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+#cuerpo7 #caja00 {
+    width: 1005px;
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 450%;
+    text-align: left;
+    padding-left: 680px;
+    height: 55px;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+#cuerpo8 #caja00 {
+    width: 1005px;
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 450%;
+    text-align: left;
+    padding-left: 640px;
+    height: 55px;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+#cuerpo9 #caja00 {
+    width: 1005px;
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 450%;
+    text-align: left;
+    padding-left: 640px;
+    height: 55px;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+#cuerpo10 #caja00 {
+    width: 1005px;
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 450%;
+    text-align: left;
+    padding-left: 600px;
+    height: 55px;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+#cuerpo1 #caja0 {
+    padding-bottom: 0px;
+    width: 500px;
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: xx-large;
+    text-align: left;
+    padding-top: 100px;
+    float: left;
+    margin-top: 10px;
+    text-indent: 0px;
+    padding-left: 680px;
+}
+#cuerpo2 #caja0 {
+    padding-bottom: 0px;
+    width: 500px;
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    padding-left: 680px;
+    font-size: xx-large;
+    text-align: left;
+    padding-top: 100px;
+    float: left;
+    margin-top: 10px;
+    text-indent: 0px;
+}
+#cuerpo3 #caja0 {
+    padding-bottom: 0px;
+    width: 500px;
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    padding-left: 511px;
+    font-size: xx-large;
+    text-align: left;
+    padding-top: 100px;
+    float: left;
+    margin-top: 10px;
+    text-indent: 0px;
+}
+#cuerpo4 #caja0 {
+    padding-bottom: 0px;
+    width: 500px;
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    padding-left: 340px;
+    font-size: xx-large;
+    text-align: left;
+    padding-top: 100px;
+    float: left;
+    margin-top: 10px;
+    text-indent: 0px;
+}
+#cuerpo5 #caja0 {
+    padding-bottom: 0px;
+    width: 500px;
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    padding-left: 410px;
+    font-size: xx-large;
+    text-align: left;
+    padding-top: 100px;
+    float: left;
+    margin-top: 80px;
+    text-indent: 0px;
+}
+#cuerpo6 #caja0 {
+    padding-bottom: 0px;
+    width: 500px;
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    padding-left: 511px;
+    font-size: xx-large;
+    text-align: left;
+    padding-top: 100px;
+    float: left;
+    margin-top: 10px;
+    text-indent: 0px;
+}
+#cuerpo7 #caja0 {
+    padding-bottom: 0px;
+    width: 500px;
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    padding-left: 680px;
+    font-size: xx-large;
+    text-align: left;
+    padding-top: 100px;
+    float: left;
+    margin-top: 10px;
+    text-indent: 0px;
+}
+#cuerpo8 #caja0 {
+    padding-bottom: 0px;
+    width: 500px;
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    padding-left: 640px;
+    font-size: xx-large;
+    text-align: left;
+    padding-top: 100px;
+    float: left;
+    margin-top: 10px;
+    text-indent: 0px;
+}
+#cuerpo9 #caja0 {
+    padding-bottom: 0px;
+    width: 500px;
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    padding-left: 640px;
+    font-size: xx-large;
+    text-align: left;
+    padding-top: 100px;
+    float: left;
+    margin-top: 10px;
+    text-indent: 0px;
+}
+#cuerpo10 #caja0 {
+    padding-bottom: 0px;
+    width: 500px;
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    padding-left: 600px;
+    font-size: xx-large;
+    text-align: left;
+    padding-top: 100px;
+    float: left;
+    margin-top: 10px;
+    text-indent: 0px;
+}
+
+
+#cuerpo1 #caja1 {
+    padding-top: 0px;
+    width: 578px;
+    text-align: left;
+    padding-left: 15px;
+    float: left;
+}
+#cuerpo2 #caja1 {
+    padding-top: 0px;
+    width: 578px;
+    text-align: center;
+    padding-left: 15px;
+    float: left;
+}
+#cuerpo3 #caja1 {
+    padding-top: 0px;
+    width: 578px;
+    text-align: center;
+    padding-left: 171px;
+    float: left;
+}
+#cuerpo3 #caja1 {
+    padding-top: 0px;
+    width: 578px;
+    text-align: center;
+    padding-left: 171px;
+    float: left;
+}
+#cuerpo4 #caja1 {
+    padding-top: 0px;
+    width: 578px;
+    text-align: center;
+    padding-left: 298px;
+    float: left;
+}
+#cuerpo5 #caja1 {
+    padding-top: 0px;
+    width: 578px;
+    text-align: center;
+    padding-left: 163px;
+    float: left;
+}
+#cuerpo6 #caja1 {
+    padding-top: 0px;
+    width: 578px;
+    text-align: center;
+    padding-left: 171px;
+    float: left;
+}
+#cuerpo7 #caja1 {
+    padding-top: 0px;
+    width: 578px;
+    text-align: center;
+    padding-left: 15px;
+    float: left;
+}
+#cuerpo8 #caja1 {
+    padding-top: 0px;
+    width: 578px;
+    text-align: center;
+    padding-left: 42px;
+    float: left;
+}
+#cuerpo9 #caja1 {
+    padding-top: 0px;
+    width: 578px;
+    text-align: center;
+    padding-left: 0px;
+    float: left;
+}
+#cuerpo10 #caja1 {
+    padding-top: 0px;
+    width: 578px;
+    text-align: center;
+    padding-left: 104px;
+    float: left;
+}
+
+
+#cuerpo {
+	width: 1908px;
+	height: 594px;
+	margin-top: 550px;
+	padding-left: 100px;
+	background-color: #FFFFFF;
+	padding-top: 21px;
+}
+
+#cuerpo #caja2 {
+    padding-top: 10px;
+    width: 496px;
+    text-align: left;
+    padding-left: 160px;
+    padding-right: 10px;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: small;
+    float: left;
+}
+#cuerpo #caja3 {
+    font-size: 228%;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    padding-top: 50px;
+    padding-left: 52px;
+    width: 556px;
+    float: left;
+}
+#cuerpo #caja4 {
+    width: 541px;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: x-large;
+    padding-left: 97px;
+    float: left;
+
+}
+#contenedor #cuerpo #caja5 {
+    width: 604px;
+    padding-left: 1270px;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    padding-top: 396px;
+    font-size: x-large;
+    color: #006DBA;
+}
+
+
+#pie {
+    text-align: center;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    background-color: #FFFFFF;
+    width: 2000px;
+    float: left;
+}
+
+
+#contenedor {
+    width: 1980px;
+    padding-left: auto;
+    padding-right: auto;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FFFFFF;
+    color: #000000;
+}

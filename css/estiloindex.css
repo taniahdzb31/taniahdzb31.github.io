@@ -1,0 +1,65 @@
+@charset "utf-8";
+#contenedor {
+    width: 2000px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#cabecera {
+    width: 2000px;
+    color: #027BBD;
+    text-align: center;
+    padding-top: 10px;
+}
+#cabecera #caja1 {
+    width: 180px;
+    background-color: #FFFFFF;
+    float: left;
+    height: 78px;
+    padding-top: 5px;
+    margin-left: px;
+    padding-left: 476px;
+    padding-right: auto;
+    padding-bottom: 5px;
+}
+#cabecera #caja2 {
+    width: 200px;
+    background-color: #FFFFFF;
+    float: left;
+}
+#cabecera #caja3 {
+    width: 220px;
+    background-color: #FFFFFF;
+    float: left;
+    color: #FFFFFF;
+}
+#cabecera #caja4 {
+    width: 200px;
+    background-color: #FFFFFF;
+    float: left;
+    color: #FFFFFF;
+}
+#cabecera #caja5 {
+    width: 200px;
+    background-color: #FFFFFF;
+    float: left;
+    color: #FFFFFF;
+}
+
+
+
+
+
+
+#cuerpo {
+}
+#pie {
+    width: 2000px;
+    text-align: center;
+    font-size: small;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+h1 font a {
+    text-decoration: none;
+    color: #006DBA;
+}
